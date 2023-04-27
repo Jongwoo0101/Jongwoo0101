@@ -10,7 +10,7 @@
 
 
 ### Tools
-![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=white)
+![unity](https://img.shields.io/badge/unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)

@@ -1,5 +1,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonjongwoo01)](https://solved.ac/rlatngus1691/wonjongwoo01)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jongwoo0101&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Jongwoo0101&show_icons=true">
 
 # 💪Skills
 ### Languages
@@ -9,9 +10,6 @@
 ![csharp](https://img.shields.io/badge/csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![cplusplus](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jongwoo0101&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Jongwoo0101&show_icons=true">
 
 
 ### Tools

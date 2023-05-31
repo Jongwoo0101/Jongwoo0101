@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jongwoo0101&exclude_repo=Jongwoo0101.github.io&layout=compact&theme=Light" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jongwoo0101&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jongwoo0101&theme=Light&show_icons=true" width="42%" />
 </a>
 
 ### Tools

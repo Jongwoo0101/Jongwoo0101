@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jongwoo0101&theme=Lightt&show_icons=true" width="42%" />
 </a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jongwoo0101&theme=nord)](https://github.com/Jongwoo010100710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jongwoo0101&theme=Light)](https://git.io/streak-stats)
 
 ### Tools
 ![unity](https://img.shields.io/badge/unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=white)

@@ -11,6 +11,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jongwoo0101&theme=Light)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jongwoo0101&theme=flat&column=7)](https://github.com/Jongwoo0101/)
+
 ### Tools
 ![unity](https://img.shields.io/badge/unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white)

@@ -9,6 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jongwoo0101&theme=Lightt&show_icons=true" width="42%" />
 </a>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jongwoo0101&theme=Light)](https://github.com/Jongwoo0101/github-readme-activity-graph)
+
 ### Tools
 ![unity](https://img.shields.io/badge/unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white)

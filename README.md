@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jongwoo0101&show_icons=true&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jongwoo0101&show_icons=true&theme=tokyonight)
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jongwoo0101&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jongwoo0101&theme=tokyonight)](https://git.io/streak-stats)
 
   
   ### Program Solving
@@ -11,7 +11,7 @@
 
   
   ### Languages
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jongwoo0101&langs_count=10&layout=compact&theme=dark)](https://github.com/Jongwoo0101/)﻿
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jongwoo0101&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/Jongwoo0101/)﻿
 
   
   ### 🛠️Using Tools🛠️

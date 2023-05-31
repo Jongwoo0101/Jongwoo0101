@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jongwoo0101&show_icons=true&theme=Light)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jongwoo0101&show_icons=true&theme=dark)
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jongwoo0101&theme=Light)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jongwoo0101&theme=dark)](https://git.io/streak-stats)
 
   
   ### Program Solving

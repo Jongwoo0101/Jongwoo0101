@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=💻📝✏️&fontAlign=70)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonjongwoo01)](https://solved.ac/rlatngus1691/wonjongwoo01)
-<img src="https://github-readme-stats.vercel.app/api?username=Jongwoo0101&show_icons=true">
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=Jongwoo0101.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jongwoo0101&exclude_repo=Jongwoo0101.github.io&layout=compact&theme=Light" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Jongwoo0101&theme=tokyonight&show_icons=true" width="42%" />

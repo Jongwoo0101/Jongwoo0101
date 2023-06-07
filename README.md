@@ -28,6 +28,6 @@
   ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)
   
   ### 📝 Program Solved 📈
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonjongwoo01)](https://solved.ac/wonjongwoo01)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonjongwoo01)](https://solved.ac/wonjongwoo01/)
   
 </div>

@@ -1,10 +1,8 @@
 <div align="center">
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jongwoo0101&theme=swift)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jongwoo0101&theme=swift)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jongwoo0101&theme=swift)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jongwoo0101&theme=swift)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jongwoo0101&theme=swift&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jongwoo0101&theme=tokyonight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jongwoo0101&theme=2077)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jongwoo0101&theme=aura)
   
   # 💪 Skills
   

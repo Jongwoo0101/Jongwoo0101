@@ -4,7 +4,7 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jongwoo0101&theme=2077)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jongwoo0101&theme=aura)
   
-  # 💪 Skills
+  #  Skills
   
   ### 🛠️ Using Tools ⚒️
   
